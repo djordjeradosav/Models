@@ -23,8 +23,8 @@ A collection of Jupyter notebooks covering the core supervised and unsupervised 
 - Missing-value imputation chosen by distribution (Shapiro–Wilk normality test → mean vs median)
 - Outlier detection and removal
 - One-hot encoding of categorical variables, feature scaling
-- Train/test splitting, cross-validation and hyperparameter tuning
-- Evaluation: accuracy, precision/recall, confusion matrix, R², MAE/RMSE, silhouette score
+- Train/test splitting, cross-validation
+- Evaluation: accuracy, confusion matrix, MAE/RMSE for regression, silhouette score for clustering
 - Elbow method and dendrograms to choose the number of clusters
 
 ## Run locally
